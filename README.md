@@ -77,7 +77,7 @@ I'm a CSE undergraduate at **LNCT Bhopal (2025–2029)**, passionate about build
 
 ---
 
-### 🌐 Let's Connect
+### 🌐 Let's Connect...
 
 - 💻 GitHub: [@ankitnapit24](https://github.com/ankitnapit24)
 - 💼 LinkedIn: [Connect with me](https://www.linkedin.com/)
